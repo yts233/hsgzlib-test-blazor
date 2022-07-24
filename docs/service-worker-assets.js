@@ -5,6 +5,10 @@
       "url": ".nojekyll"
     },
     {
+      "hash": "sha256-Ox2ZMIJeiVFxeXOqwRmFWIFcqxIHk5KM6sQA4g2TmzY=",
+      "url": "404.html"
+    },
+    {
       "hash": "sha256-V8e\/C1oDXYJLgwzb7mDK06JBtRTXOYpoj9lsdsnELyg=",
       "url": "CNAME"
     },
@@ -441,5 +445,5 @@
       "url": "_content\/HsgzLibrary.BlazorApp\/HsgzLibrary.BlazorApp.bundle.scp.css"
     }
   ],
-  "version": "fmI\/yg\/R"
+  "version": "B5eJEIjI"
 };
