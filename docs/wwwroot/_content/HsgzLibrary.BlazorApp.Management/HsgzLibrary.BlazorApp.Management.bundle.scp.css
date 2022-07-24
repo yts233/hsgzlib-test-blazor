@@ -1,0 +1,45 @@
+/* _content/HsgzLibrary.BlazorApp.Management/Pages/ChangePassword.razor.rz.scp.css */
+.change-password-panel[b-sjn4fejxnj] {
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+}
+/* _content/HsgzLibrary.BlazorApp.Management/Pages/Login.razor.rz.scp.css */
+
+.login-banner[b-zgvxajqpa4] {
+    margin: auto;
+}
+
+    .login-banner span[b-zgvxajqpa4] {
+        display: inline-block;
+    }
+
+.login-panel[b-zgvxajqpa4] {
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    margin: auto;
+}
+/* _content/HsgzLibrary.BlazorApp.Management/Shared/MainFooter.razor.rz.scp.css */
+.footer[b-s34xbycexf] {
+    margin-top: 3rem;
+    background-color: var(--mdc-theme-primary);
+    color: #fff;
+    height: 10rem;
+    padding-top: 2.5rem;
+    font-size: 1.5rem;
+    box-shadow: #0008 0 0 1rem;
+}
+/* _content/HsgzLibrary.BlazorApp.Management/Shared/MainLayout.razor.rz.scp.css */
+.main-content[b-lg23d72d5n] {
+    margin-top: 36px;
+    margin-bottom: auto;
+}
+
+.main-body[b-lg23d72d5n] {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
