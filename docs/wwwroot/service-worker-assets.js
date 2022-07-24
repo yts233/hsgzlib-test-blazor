@@ -349,8 +349,16 @@
       "url": "_content\/MatBlazor\/dist\/matBlazor.js"
     },
     {
+      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "url": "_content\/HsgzLibrary.BlazorApp\/.nojekyll"
+    },
+    {
       "hash": "sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4\/sNPbaRUspOLefkCY=",
       "url": "_content\/HsgzLibrary.BlazorApp\/background.png"
+    },
+    {
+      "hash": "sha256-V8e\/C1oDXYJLgwzb7mDK06JBtRTXOYpoj9lsdsnELyg=",
+      "url": "_content\/HsgzLibrary.BlazorApp\/CNAME"
     },
     {
       "hash": "sha256-cOfDHxl58yq2a\/1ssTpMvqJkV0zZV89MG+4ev+ah1hU=",
@@ -433,5 +441,5 @@
       "url": "_content\/HsgzLibrary.BlazorApp\/HsgzLibrary.BlazorApp.bundle.scp.css"
     }
   ],
-  "version": "fTqydYvs"
+  "version": "yFkeoiRw"
 };
