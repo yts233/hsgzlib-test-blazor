@@ -8,11 +8,11 @@
   "resources": {
     "assembly": {
       "Blazored.LocalStorage.dll": "sha256-6RRoYeDP3d0xabXmcCMF66wXeJlXVPem28Trs8sQiis=",
-      "HsgzLibrary.BlazorApp.dll": "sha256-HqXEH6j6lsM5ZJWpXnjg3ahNeCCdMmtHf\/9v9drkOlI=",
-      "HsgzLibrary.BlazorApp.Management.dll": "sha256-1j4s8H1kbGLfLqlpuy+A+txDsGlo0NM\/yYPK5y94ASY=",
-      "HsgzLibrary.BlazorApp.Wasm.dll": "sha256-YMYJ6KWAtKttW1yLAakAyRtpFWYGYrF+pHDLeHJ2Kws=",
-      "HsgzLibrary.Client.dll": "sha256-T1AwIb\/PRVFi6ooRM4kwp9xNEX5lEDlVgrKzeotN7PU=",
-      "HsgzLibrary.Shared.dll": "sha256-SRzZvsJ2NN96Lo4ysK5upO+QwGtX4S5uyEZlbTmTxcc=",
+      "HsgzLibrary.BlazorApp.dll": "sha256-l9o4QNiErD1+GIla8WkiD32YGB9uKfTESlEWjKGfGdw=",
+      "HsgzLibrary.BlazorApp.Management.dll": "sha256-wTrwMDKH8TK\/HhTSh07PXWBRYgEueKGyYaSCouGQBIQ=",
+      "HsgzLibrary.BlazorApp.Wasm.dll": "sha256-L82q8b+NtZF485IeZCeAA+\/i6+nLFdJ+IYAKx22B7Rw=",
+      "HsgzLibrary.Client.dll": "sha256-grRJgzGsIezxX4+7yWUyO0WV6LsxlaoIuE8AjSaGPiU=",
+      "HsgzLibrary.Shared.dll": "sha256-5KrL15uu9RmBT+cYDYUn1gRq2qPRv15++JmQKavpEiU=",
       "MatBlazor.dll": "sha256-QIBDJrzKSuTvSYWxXIoOqPVi5lsAjWelPgiRyb0IOSU=",
       "Microsoft.AspNetCore.Components.dll": "sha256-OIWiynMazQ3Lm1L6iDhioVYyaW8Amget+ZLplnc4U4I=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-m\/5HgjK6yS\/T3fySB7EHMgwULNDhvkhf+RxwwSNGxRU=",
